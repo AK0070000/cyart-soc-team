@@ -373,7 +373,6 @@ This project provided practical exposure to real-world SOC workflows, penetratio
 
 ## Akshay Kharat
 
-BCA Student | Cybersecurity Enthusiast | SOC & Penetration Testing Learner
 
 ---
 
